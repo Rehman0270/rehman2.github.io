@@ -1,0 +1,126 @@
+
+body {
+    color: rgba(23, 32, 30, 0.746);
+    background-image: url("https://media2.giphy.com/media/FlodpfQUBSp20/giphy.gif?cid=ecf05e47dsmzcqdv5bao45amsggsig3a3zb1no8tk1z0awrq&rid=giphy.gif&ct=g" ); opacity: 0.9;
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   
+}
+.ff:hover{padding: 17px;}
+td{padding: 10px;}
+table,h2,h3:hover {
+    padding: 20px;
+}
+
+table {
+    padding: 15px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgba(255, 240, 240, 0.398);
+    border-width: 6px;
+    width: 5%;
+    border-radius: px;
+    height: 0px;
+
+}
+
+.myimg:active {
+
+    height: 150px;
+    border-radius: 10px;
+    ;
+}
+
+.myimg {
+    height: 150px;
+    border-radius: 200px;
+    border-style: solid;
+    border-color: #704e78da;
+}
+
+h2 {
+    padding-bottom: 0;
+    position: relative;
+    text-align: center;
+   
+   
+    color: #2581ac;
+   ;
+}
+
+h3 {
+    color: #bea9b7d7;
+}
+
+div {
+    background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?w=740&t=st=1679174960~exp=1679175560~hmac=4b77ce91ea93ca7ab51e748451e747907d76e4f62dd8c278d4b46f31308dd1ff");
+    background-color: rgb(207, 240, 197);
+    border-radius: 15px;
+}
+
+#heading {
+    font: italic "Fira Sans", serif;
+}
+div:hover{
+     background-color: #dcd39b;
+}
+.abdul{
+   
+    font-style: italic;
+}
+.rain{display: flex;
+    opacity: 95%;
+  
+    padding-top: 1px;
+   width: 250px;
+    margin-top: 0;
+    position: absolute;
+    align-items: center;
+    left: 37%;
+
+   
+    top: 0
+    
+    
+    
+}
+.rain2{
+    
+   
+    margin-top: 0;
+    position: relative;
+   
+  
+    
+}
+.book{
+    opacity: 70%;
+   padding-top: 1%;
+   
+    width: 150px;
+    position:absolute;
+    right: 5%;
+    border-radius: 20px;
+
+}
+.fb{opacity: 70%; 
+  ;
+    width: 120px;
+    position:absolute;
+    right: 5%;
+}
+h4{text-align: center;
+    padding-top: 0;
+    padding-bottom: 5%;
+   
+    color: rgb(61, 218, 229);
+    top: 20%;
+    margin-top: 0;
+    padding-top: 0;
+}
+.label1{padding-left: 0;
+    margin-left: 0;
+}
